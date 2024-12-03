@@ -5,3 +5,5 @@
 * I have conducted the following projects:
 1. Fintuned LLaMA-3.1-8b based on medical notes database (MIMIC-III).
 2. TBC
+* I can use the following programming languages: C++, Python, R, Stata
+* I am capable of machine learning and multiple LLM tasks on pytorch and tenserflow.  Besides, I can also taking a CUDA language course in the 2025 winter semester.
